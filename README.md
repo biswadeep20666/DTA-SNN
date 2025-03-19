@@ -1,8 +1,4 @@
-# DTA: Dual Temporal-channel-wise Attention for Spiking Neural Networks(
-
-[WACV2025]: https://openaccess.thecvf.com/content/WACV2025/papers/Kim_DTA_Dual_Temporal-Channel-Wise_Attention_for_Spiking_Neural_Networks_WACV_2025_paper.pdf
-
-# )
+# DTA: Dual Temporal-channel-wise Attention for Spiking Neural Networks([WACV2025](https://openaccess.thecvf.com/content/WACV2025/papers/Kim_DTA_Dual_Temporal-Channel-Wise_Attention_for_Spiking_Neural_Networks_WACV_2025_paper.pdf))
 
 Code for DTA training
 
